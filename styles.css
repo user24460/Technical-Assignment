@@ -1,0 +1,10 @@
+.textFormatting {
+  text-align: center;
+  font-size: 12px;
+  font-family: Arial;
+}
+
+.bi {
+  margin: 12px;
+  cursor: pointer;
+}
